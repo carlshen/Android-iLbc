@@ -1,9 +1,9 @@
 #include <jni.h>
 #include <math.h>
 #include <string.h>
-#include "iLBC_define.h"
-#include "iLBC_decode.h"
-#include "iLBC_encode.h"
+//#include "libc_src/iLBC_define.h"
+#include "ilbc_src/iLBC_decode.h"
+#include "ilbc_src/iLBC_encode.h"
 
 #define LOG_TAG "audiowrapper"
 
